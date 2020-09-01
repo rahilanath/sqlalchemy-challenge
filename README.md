@@ -1,5 +1,5 @@
 # sqlalchemy-challenge
-![surf](surfs-up.png)
+![surf](/Images/surfs-up.png)
 
 ## Submission
 I did not have enough time to complete bonus questions due to a heavy workload at work.
@@ -14,4 +14,4 @@ I did not have enough time to complete bonus questions due to a heavy workload a
 
 ## App
 Here is my app file:
-[app.py File](/app.py)
+[app.py File](app.py)
