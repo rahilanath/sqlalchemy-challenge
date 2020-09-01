@@ -7,7 +7,7 @@ from sqlalchemy import create_engine, func
 from flask import Flask
 
 # db setup
-engine = create_engine('sqlite://../Resources/hawaii.sqlite')
+engine = create_engine('sqlite:///hawaii.sqlite')
 
 # reflect db
 Base = automap_base()
